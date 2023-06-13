@@ -11,3 +11,4 @@ while brain.still_have_questions():
     brain.next_question()
 
 print(f"You have {brain.correct_answers} correct answers for {len(brain.questions_list)}")
+s
